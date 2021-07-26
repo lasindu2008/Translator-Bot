@@ -19,20 +19,20 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a google translator telegram bot.
 
-Made by @supunma 🇱🇰
+Made by @Lasindusenash 🇱🇰
 """
 HELP_TEXT = """
 - Just send a text with language code
 
 example :- `This is a sample text | si `
 
-Made by @supunma 🇱🇰 
+Made by @Lasindusenash 🇱🇰 
 """
 ABOUT_TEXT = """
 - **Bot :** `Translator Bot`
-- **Creator :** [slgeekshow ](https://telegram.me/supunma)
-- **Channel :** [slbotzone](https://telegram.me/slbotzone)
-- **Source :** [Click here](https://github.com/supunmadurangasl)
+- **Creator :** [Lasindu Senash  ](https://telegram.me/Lasindusenash)
+- **Group :** [Talk With Friends](https://t.me/joinchat/6Wt2tSd3FOYyOWI9)
+- **Source :** [Click here](https://github.com/lasindu2008)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
